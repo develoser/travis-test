@@ -4,7 +4,7 @@
   "description": "Testing Travis integration",
   "main": "index.js",
   "scripts": {
-    "pretest": "npm i protractor --save && webdriver-manager update",
+    "pretest": "webdriver-manager update",
     "test": "protractor tests/e2e/protractor.config.js"
   },
   "repository": {
