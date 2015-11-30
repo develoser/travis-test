@@ -7,5 +7,3 @@ If you want to see the build history and further more about this project in Trav
 [![Build Status](https://travis-ci.org/develoser/travis-test.svg?branch=master)](https://travis-ci.org/develoser/travis-test)
 
 Triggering webhook
-Second test
-1,2,3
