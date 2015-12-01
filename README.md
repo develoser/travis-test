@@ -7,4 +7,4 @@ If you want to see the build history and further more about this project in Trav
 [![Build Status](https://travis-ci.org/develoser/travis-test.svg?branch=master)](https://travis-ci.org/develoser/travis-test)
 
 Triggering webhook
-1
+1,just sending the push event
