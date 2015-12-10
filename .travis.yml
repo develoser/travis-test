@@ -11,6 +11,7 @@ before_install:
 
 install:
   - "npm install"
+  - "echo $TRAFFICSCORE_QA_ENV"
 
 script:
   - npm test
