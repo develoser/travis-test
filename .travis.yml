@@ -2,7 +2,7 @@
 language: node_js
 
 before_script:
-  - "git branch"
+  - "sh git branch"
 
 before_install:
   - "export DISPLAY=:99.0"
